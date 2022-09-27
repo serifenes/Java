@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/95710653/192505608-34c41903-2af8-4cfc-ac0c-8fdbd5e22904.png) 
+![image](https://user-images.githubusercontent.com/95710653/192506129-21f646d6-f7e1-4e06-8bbf-587d2d085356.png)
 
 
 ➢ Java ile yazdığım tüm kodları bu repoda bulabilirsiniz.🤩
